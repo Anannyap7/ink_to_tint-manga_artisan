@@ -12,7 +12,7 @@ While automatic colorization using cGANs has been successfully implemented in pr
 
 The figure above demonstrates the use of **dodging and dilation** on grayscaled version of the colored input image to obtain the desired dataset.
 
-## Colorization Results:
+## Colorization Results
 
 **Model Used:** Pix2Pix condition GAN with residual connections to retain the original input integrity (texts and edges)
 
@@ -24,7 +24,7 @@ Furthermore, the application of our model to unseen data yields commendable resu
 
 ![image](https://github.com/Anannyap7/ink_to_tint-manga_artisan/assets/59221653/eefa1956-b6b2-46b3-a810-d250f2eacfc1)
 
-## Style Transfer Results:
+## Style Transfer Results
 
 The experimental phase of our study on style transfer was undertaken utilizing a constrained dataset over a finite duration. Preliminary outcomes, as depicted below,
 though somewhat irregular in nature, offer a glimpse of the potential advancements achievable in future endeavors. With an expanded dataset and enhanced fine-tuning pro- cesses, these initial results suggest promising directions for further refinement and development in the field of manga style transfer.
